@@ -6,7 +6,7 @@ body {
 
 
 .image{
-    border: 5px solid green;
+    border: 10px solid #007f80;
     border-radius: 10px;
     height: 400px;
 }
